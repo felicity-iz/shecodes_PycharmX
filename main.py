@@ -5,7 +5,6 @@
 
 versions = [1, 2, 7]
 
-
 def print_version():
     # Use a breakpoint in the code line below to debug your script.
     latest_version = versions[-1]
